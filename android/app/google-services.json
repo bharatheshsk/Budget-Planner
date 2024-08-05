@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "640119481496",
+    "firebase_url": "https://amounttracker-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "amounttracker",
+    "storage_bucket": "amounttracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640119481496:android:acc717e6ebdd12d6ae5ced",
+        "android_client_info": {
+          "package_name": "com.example.amounttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640119481496-ov0ats3dtp3f06g6d8c1f7pfveug2m9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBepXz0Q6kbTSquzkjxiDbYwR9EcLi5Rz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640119481496-ov0ats3dtp3f06g6d8c1f7pfveug2m9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
