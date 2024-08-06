@@ -1,3 +1,9 @@
+This is an android app developed using Flutter(.dart) and firebase as backend
+This application deals with managing of your personal budget and keep a track on upcoming due dates of your budgets
+
+#flutter
+#andriod
+#budgetplanner
 # amounttracker
 
 A new Flutter project.
